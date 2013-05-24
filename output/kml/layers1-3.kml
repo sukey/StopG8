@@ -1,0 +1,1071 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>layers1-3</name>
+		<description><![CDATA[#J11 Map Of The Capitalist West End
+
+Presenting the action map for the June 11 Carnival Against Capitalism. 100 locations in the West End connected to blatant murder, oppression and exploitation.
+
+source: https://network23.org/stopg8/j11-carnival-against-capitalism/j11-map-of-the-capitalist-west-end/]]></description>
+		<Folder>
+			<name>Hedge Funds</name>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Brevan Howard</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>One of Europe's biggest hedge funds, speculating on mortgages, Greek &amp; Spanish crises.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>55 Baker Street. W1U 8EW</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 
+Description: One of Europe's biggest hedge funds, speculating on mortgages, Greek & Spanish crises.
+Address: 55 Baker Street. W1U 8EW]]></description>
+				<Point>
+					<coordinates>-0.1567384,51.518666499999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Blue Bay Asset Management</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>12</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>One of the biggest UK hedge funds, a vulture fund that buys ‘distressed debts‘ in poor countries and then pressures for repayment.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>77 Grosvenor Street, W1K
+</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 12
+Description: One of the biggest UK hedge funds, a vulture fund that buys ‘distressed debts‘ in poor countries and then pressures for repayment.
+Address: 77 Grosvenor Street, W1K
+]]></description>
+				<Point>
+					<coordinates>-0.1451428,51.5120453,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Cevian Capital</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>13</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Profits from speculating on financial crisis and Euro collapse. taking over ex-public companies. running vulture and bankruptcy funds and investing in gold mines.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>17 Cavendish Square, W1G</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 13
+Description: Profits from speculating on financial crisis and Euro collapse. taking over ex-public companies. running vulture and bankruptcy funds and investing in gold mines.
+Address: 17 Cavendish Square, W1G]]></description>
+				<Point>
+					<coordinates>-0.1460482,51.5166604,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>CQS Investment Management</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>14</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Big hedge fund that was a major speculator in sub-prime mortgages. Also provides free office space for disgraced Conservative party fixer Adam Werrity.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>33 Grosvenor Place. SW1X 7HY</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 14
+Description: Big hedge fund that was a major speculator in sub-prime mortgages. Also provides free office space for disgraced Conservative party fixer Adam Werrity.
+Address: 33 Grosvenor Place. SW1X 7HY]]></description>
+				<Point>
+					<coordinates>-0.1484831,51.49951600000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>COMAC Capital</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>15</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Hedge fund paid its founding partner EUR42 million in 2012.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>5 Stratton Street, W1J 8LA</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 15
+Description: Hedge fund paid its founding partner EUR42 million in 2012.
+Address: 5 Stratton Street, W1J 8LA]]></description>
+				<Point>
+					<coordinates>-0.1432643,51.5069053,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Ecofin</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>16</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Investment fund involved in privatisation of water and power utilities.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Burdett House, 15 Buckingham St, City of Westminster, London WC2N, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 16
+Description: Investment fund involved in privatisation of water and power utilities.
+Address: Burdett House, 15 Buckingham St, City of Westminster, London WC2N, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.12327900000000001,51.508284599999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Elliott Associates</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>17</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Infamous for buying ‘distressed‘ debt from Argentina. Peru. Greece and then forcing full repayment or suing. CEO is a major Republican Party donor.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Cleveland House, 4th Floor, 33 King Street, SW1Y 6RJ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 17
+Description: Infamous for buying ‘distressed‘ debt from Argentina. Peru. Greece and then forcing full repayment or suing. CEO is a major Republican Party donor.
+Address: Cleveland House, 4th Floor, 33 King Street, SW1Y 6RJ]]></description>
+				<Point>
+					<coordinates>-0.13651459999999999,51.506699999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>GLC</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>18</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Dodgy hedge fund whose boss greased Labour's Ed Milliband's leadership campaign fund with £25 000.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Ingeni Building, 17 Broadwick Street. W1F 0AX</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 18
+Description: Dodgy hedge fund whose boss greased Labour's Ed Milliband's leadership campaign fund with £25 000.
+Address: Ingeni Building, 17 Broadwick Street. W1F 0AX]]></description>
+				<Point>
+					<coordinates>-0.1352701,51.5135252,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Horseman Capital</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>19</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Investing in luxury brands. luxury retailers, automobiles and Chinese banking.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>8-9 Chester Close, London SW1X 7BE, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 19
+Description: Investing in luxury brands. luxury retailers, automobiles and Chinese banking.
+Address: 8-9 Chester Close, London SW1X 7BE, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.15009,51.499902399999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Investcorp</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>20</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Bahrain based hedge fund and real estate speculator managing the money of the Gulf oil rich.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>48 Grosvenor Street, W1K 3HW</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 20
+Description: Bahrain based hedge fund and real estate speculator managing the money of the Gulf oil rich.
+Address: 48 Grosvenor Street, W1K 3HW]]></description>
+				<Point>
+					<coordinates>-0.14901129999999999,51.51123390000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Lansdowne Partners</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>21</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Hedge Fund known for “shorting" Northern Rock. allegedly making £100m. Boss Sir Paul Ruddock is a major Conservative party donor.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>15 Davies Street, W1K 3AG</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 21
+Description: Hedge Fund known for “shorting" Northern Rock. allegedly making £100m. Boss Sir Paul Ruddock is a major Conservative party donor.
+Address: 15 Davies Street, W1K 3AG]]></description>
+				<Point>
+					<coordinates>-0.1477523,51.511007199999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Man Group</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>22</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>One of UK's biggest hedge funds. currently hit by insider dealing scandals.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>1 Curzon Street, W1J 5HB</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 22
+Description: One of UK's biggest hedge funds. currently hit by insider dealing scandals.
+Address: 1 Curzon Street, W1J 5HB]]></description>
+				<Point>
+					<coordinates>-0.14564459999999999,51.5075478,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Millenium Global</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>23</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>One of London's oldest hedge funds. set up in 1994. speculates on currencies and everything from fossil fuels to Third World debt.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>57-59 St James's St, London, Greater London SW1A 1LD, UK</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 23
+Description: One of London's oldest hedge funds. set up in 1994. speculates on currencies and everything from fossil fuels to Third World debt.
+Address: 57-59 St James's St, London, Greater London SW1A 1LD, UK]]></description>
+				<Point>
+					<coordinates>-0.1386414,51.505776999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Och-Ziff Management</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>24</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Vulture fund known for profiting from Greek "distressed debt‘. Also linked to the Mugabe regime in Zimbabwe and mining deals in Guinea.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>40 Argyll Street. W1F 7EB</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 24
+Description: Vulture fund known for profiting from Greek "distressed debt‘. Also linked to the Mugabe regime in Zimbabwe and mining deals in Guinea.
+Address: 40 Argyll Street. W1F 7EB]]></description>
+				<Point>
+					<coordinates>-0.1406008,51.5143407,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Odey Asset Management</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>25</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Profits from speculating on bank failures and the Eurozone crisis.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>12 Upper Grosvenor Street, W1K 2ND</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 25
+Description: Profits from speculating on bank failures and the Eurozone crisis.
+Address: 12 Upper Grosvenor Street, W1K 2ND]]></description>
+				<Point>
+					<coordinates>-0.1543214,51.510467899999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Paulson Europe</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>26</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>World's 4th largest hedge fund managing $35.8 bn assets. best known for massive profits from sub-prime collapse.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>70 Jermyn Street. SW1Y 6NY</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 26
+Description: World's 4th largest hedge fund managing $35.8 bn assets. best known for massive profits from sub-prime collapse.
+Address: 70 Jermyn Street. SW1Y 6NY]]></description>
+				<Point>
+					<coordinates>-0.1393286,51.5074974,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1489-FF7C2F</styleUrl>
+				<name>Spinnaker</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Hedge Funds</displayName>
+						<value>27</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Vulture fund that speculates in government and corporate debt in poor countries.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>6 Grosvenor Street, W1K 4DJ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Hedge Funds: 27
+Description: Vulture fund that speculates in government and corporate debt in poor countries.
+Address: 6 Grosvenor Street, W1K 4DJ]]></description>
+				<Point>
+					<coordinates>-0.1453999,51.5121599,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Private Equity</name>
+			<Placemark>
+				<styleUrl>#icon-962-4186F0</styleUrl>
+				<name>Altima Partners</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Private Equity</displayName>
+						<value>28</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Runs a land grab fund and invests in fossil fuels.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>23 Savile Row. W1S 2ET</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Private Equity: 28
+Description: Runs a land grab fund and invests in fossil fuels.
+Address: 23 Savile Row. W1S 2ET]]></description>
+				<Point>
+					<coordinates>-0.14096889999999998,51.511961,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-962-4186F0</styleUrl>
+				<name>Blackstone</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Private Equity</displayName>
+						<value>29</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>World's largest “aItemative investment" manager controlling more than $210 billion. Known for real estate speculation.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>40 Berkeley Square. W1J 5AL</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Private Equity: 29
+Description: World's largest “aItemative investment" manager controlling more than $210 billion. Known for real estate speculation.
+Address: 40 Berkeley Square. W1J 5AL]]></description>
+				<Point>
+					<coordinates>-0.1469923,51.509768,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-962-4186F0</styleUrl>
+				<name>Bridgepoint Ventures</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Private Equity</displayName>
+						<value>30</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Real estate development fund specialising in UK gentrification and US poverty.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>17 Savile Row, W1S 3PN</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Private Equity: 30
+Description: Real estate development fund specialising in UK gentrification and US poverty.
+Address: 17 Savile Row, W1S 3PN]]></description>
+				<Point>
+					<coordinates>-0.1406084,51.5111939,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-962-4186F0</styleUrl>
+				<name>Carlyle Group</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Private Equity</displayName>
+						<value>31</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Massive and controversial warmongering global asset management firm linked to George Bush Sr, owns CSI, global supplier of tear gas.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Landsdowne House, 57 Berkeley Square, London, Greater London W1J 6ER, UK 
+</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Private Equity: 31
+Description: Massive and controversial warmongering global asset management firm linked to George Bush Sr, owns CSI, global supplier of tear gas.
+Address: Landsdowne House, 57 Berkeley Square, London, Greater London W1J 6ER, UK 
+]]></description>
+				<Point>
+					<coordinates>-0.144711,51.5088909,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-962-4186F0</styleUrl>
+				<name>Emergent Asset Management</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Private Equity</displayName>
+						<value>32</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Runs "African Agriland Fund", speculator in food crops and farm land. (on Level 7) </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>7 Old Park Lane, W1K 1QR</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Private Equity: 32
+Description: Runs "African Agriland Fund", speculator in food crops and farm land. (on Level 7) 
+Address: 7 Old Park Lane, W1K 1QR]]></description>
+				<Point>
+					<coordinates>-0.1493898,51.504375499999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-962-4186F0</styleUrl>
+				<name>Hermitage Capital</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Private Equity</displayName>
+						<value>33</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Major profiteer from post-Soviet privatisation programme and erstwhile backer of the Putin regime, before falling out with the prez. Has also financed Vedanta and other unsavoury global corporates.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>2-3 Golden Square, W1F 9HR</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Private Equity: 33
+Description: Major profiteer from post-Soviet privatisation programme and erstwhile backer of the Putin regime, before falling out with the prez. Has also financed Vedanta and other unsavoury global corporates.
+Address: 2-3 Golden Square, W1F 9HR]]></description>
+				<Point>
+					<coordinates>-0.1368972,51.5121482,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-962-4186F0</styleUrl>
+				<name>Lion Capital</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Private Equity</displayName>
+						<value>34</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Private equity firm.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>21 Grosvenor Place. SW1X 7HF</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Private Equity: 34
+Description: Private equity firm.
+Address: 21 Grosvenor Place. SW1X 7HF]]></description>
+				<Point>
+					<coordinates>-0.1491804,51.5001949,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Banks</name>
+			<Placemark>
+				<styleUrl>#icon-971-FF8277</styleUrl>
+				<name>Bank Leumi</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Banks</displayName>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Israel's largest bank, finances settlement building in the Occupied Palestinian Territories.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>20 Stratford Place, W1C 1BG</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Banks: 1
+Description: Israel's largest bank, finances settlement building in the Occupied Palestinian Territories.
+Address: 20 Stratford Place, W1C 1BG]]></description>
+				<Point>
+					<coordinates>-0.14946299999999998,51.5146672,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-971-FF8277</styleUrl>
+				<name>Barclays Private Banking</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Banks</displayName>
+						<value>2</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Private banking (i.e. banking for the rich) arm of the infamous tax avoiding, rate-fixing, alleged money laundering UK bank.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>41-43 Brook Street. W1K 4HJ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Banks: 2
+Description: Private banking (i.e. banking for the rich) arm of the infamous tax avoiding, rate-fixing, alleged money laundering UK bank.
+Address: 41-43 Brook Street. W1K 4HJ]]></description>
+				<Point>
+					<coordinates>-0.1465651,51.5125622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-971-FF8277</styleUrl>
+				<name>Citigroup Private Bank</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Banks</displayName>
+						<value>3</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Mega-rich branch of the world's largest bank.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>41 Berkeley Square. W1J 5AN</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Banks: 3
+Description: Mega-rich branch of the world's largest bank.
+Address: 41 Berkeley Square. W1J 5AN]]></description>
+				<Point>
+					<coordinates>-0.14712,51.5095405,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-971-FF8277</styleUrl>
+				<name>Coutts</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Banks</displayName>
+						<value>4</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Private bank and wealth manager, recently fined £8.75m for breaching money laundering regulations.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>440 Strand, WC2R OQS</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Banks: 4
+Description: Private bank and wealth manager, recently fined £8.75m for breaching money laundering regulations.
+Address: 440 Strand, WC2R OQS]]></description>
+				<Point>
+					<coordinates>-0.12133150000000001,51.5105802,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-971-FF8277</styleUrl>
+				<name>EFG Eurobank Ergasias</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Banks</displayName>
+						<value>5</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>One of the biggest private banks in Greece, owned by billionaire tycoon Spiros Latsis, kept afloat by international bailout money on the condition of pauperisation of the Greek population.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>25 Berkeley Square, W1J 6HN</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Banks: 5
+Description: One of the biggest private banks in Greece, owned by billionaire tycoon Spiros Latsis, kept afloat by international bailout money on the condition of pauperisation of the Greek population.
+Address: 25 Berkeley Square, W1J 6HN]]></description>
+				<Point>
+					<coordinates>-0.1462096,51.5106681,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-971-FF8277</styleUrl>
+				<name>EFG Private Bank and London EFG Asset Management</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Banks</displayName>
+						<value>6</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Another division of Latsis' Greek banking empire.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Leconfield House, Curzon St, London, Greater London W1J 5JB, UK</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Banks: 6
+Description: Another division of Latsis' Greek banking empire.
+Address: Leconfield House, Curzon St, London, Greater London W1J 5JB, UK]]></description>
+				<Point>
+					<coordinates>-0.1497475,51.506578499999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-971-FF8277</styleUrl>
+				<name>Israel Discount Bank</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Banks</displayName>
+						<value>7</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>One of Israel's three largest banks. Finances the construction of Israeli settlements in the West Bank.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>65 Curzon St, London, Greater London W1J 8PE, UK</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Banks: 7
+Description: One of Israel's three largest banks. Finances the construction of Israeli settlements in the West Bank.
+Address: 65 Curzon St, London, Greater London W1J 8PE, UK]]></description>
+				<Point>
+					<coordinates>-0.14463560000000003,51.5079095,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-971-FF8277</styleUrl>
+				<name>Qatar National Bank (QNB)</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Banks</displayName>
+						<value>8</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Banking arm of the Qatari regime.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>51 Grosvenor Street. W1K 3HH</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Banks: 8
+Description: Banking arm of the Qatari regime.
+Address: 51 Grosvenor Street. W1K 3HH]]></description>
+				<Point>
+					<coordinates>-0.1448856,51.512177099999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-971-FF8277</styleUrl>
+				<name>Riyad Bank</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Banks</displayName>
+						<value>9</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>One of the largest Saudi Arabian banks.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>17B Curzon Street, London, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Banks: 9
+Description: One of the largest Saudi Arabian banks.
+Address: 17B Curzon Street, London, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.14878041230315375,51.506672481533684,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-971-FF8277</styleUrl>
+				<name>Samba Financial Group</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Banks</displayName>
+						<value>10</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Saudi Arabian bank and investment manager.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Nightingale House 65 Curzon St, London, Greater London W1J 8PE, UK</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Banks: 10
+Description: Saudi Arabian bank and investment manager.
+Address: Nightingale House 65 Curzon St, London, Greater London W1J 8PE, UK]]></description>
+				<Point>
+					<coordinates>-0.14463560000000003,51.5079095,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-962-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-971-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/971-biz-bank-dollar.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1489-FF7C2F'>
+			<IconStyle>
+				<color>ff2F7CFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1489-weather-wind.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

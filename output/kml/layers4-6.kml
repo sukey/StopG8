@@ -1,0 +1,1042 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>layers4-6</name>
+		<description><![CDATA[#J11 Map Of The Capitalist West End
+
+Presenting the action map for the June 11 Carnival Against Capitalism. 100 locations in the West End connected to blatant murder, oppression and exploitation.
+
+source: https://network23.org/stopg8/j11-carnival-against-capitalism/j11-map-of-the-capitalist-west-end/]]></description>
+		<Folder>
+			<name>CourtsAndPoliceStations.ods</name>
+			<Placemark>
+				<styleUrl>#icon-1213-FF7C2F</styleUrl>
+				<name>Charing Cross Police Station.</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Courts and Police Stations</displayName>
+						<value>46</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Agar St, London, WCZN 4JP</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Courts and Police Stations: 46
+Description: 
+Address: Agar St, London, WCZN 4JP]]></description>
+				<Point>
+					<coordinates>-0.1245254,51.509811899999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1213-FF7C2F</styleUrl>
+				<name>Scotland Yard.</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Courts and Police Stations</displayName>
+						<value>47</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>8-10 Broadway, SW1H OBG</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Courts and Police Stations: 47
+Description: 
+Address: 8-10 Broadway, SW1H OBG]]></description>
+				<Point>
+					<coordinates>-0.1331221,51.498734299999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1213-FF7C2F</styleUrl>
+				<name>Supreme Court.</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Courts and Police Stations</displayName>
+						<value>48</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Parliament Square, SW1P 3BD</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Courts and Police Stations: 48
+Description: 
+Address: Parliament Square, SW1P 3BD]]></description>
+				<Point>
+					<coordinates>-0.1266706,51.5010286,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1213-FF7C2F</styleUrl>
+				<name>West End Central Police Station.</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Courts and Police Stations</displayName>
+						<value>49</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>27 Savile Row, City of Westminster, London W1S</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Courts and Police Stations: 49
+Description: 
+Address: 27 Savile Row, City of Westminster, London W1S]]></description>
+				<Point>
+					<coordinates>-0.1413342,51.511591599999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>DensOfTheRich.ods</name>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name></name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>50</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Mayfair mansion bought by CEO of ArcelorMittal, Lakshmi Mittal. as a wedding present for his daughter. Came with a built in nightclub and full-sized squash court.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>21-23 Curzon St London, Greater London W1J 7TE</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 50
+Description: Mayfair mansion bought by CEO of ArcelorMittal, Lakshmi Mittal. as a wedding present for his daughter. Came with a built in nightclub and full-sized squash court.
+Address: 21-23 Curzon St London, Greater London W1J 7TE]]></description>
+				<Point>
+					<coordinates>-0.15015019999999998,51.5062431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Annabel's</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>51</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Nightclub frequented by drunken aristos, celebs and other mega-rich. Champagne at £3,600 a bottle.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>44 Berkeley Square, London, Greater London W1J 5QB</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 51
+Description: Nightclub frequented by drunken aristos, celebs and other mega-rich. Champagne at £3,600 a bottle.
+Address: 44 Berkeley Square, London, Greater London W1J 5QB]]></description>
+				<Point>
+					<coordinates>-0.14648837109450596,51.509420758776606,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Asprey</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>52</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>The royal jeweller.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>167 New Bond St, London, Greater London W1S 4AY</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 52
+Description: The royal jeweller.
+Address: 167 New Bond St, London, Greater London W1S 4AY]]></description>
+				<Point>
+					<coordinates>-0.1423441,51.51004040000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Boodle's</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>53</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Private “gentlemen‘s" club.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>28 Saint James's Street, London, Greater London SW1A 1HJ, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 53
+Description: Private “gentlemen‘s" club.
+Address: 28 Saint James's Street, London, Greater London SW1A 1HJ, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.13957686025776184,51.50691243363953,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Bond Street</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>54</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Ultimate shopping street of the global mega-rich. (lncludes Old and New Bond Street)</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Old Bond St, City of Westminster, London, UK</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 54
+Description: Ultimate shopping street of the global mega-rich. (lncludes Old and New Bond Street)
+Address: Old Bond St, City of Westminster, London, UK]]></description>
+				<Point>
+					<coordinates>-0.1408891,51.508882299999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Buckingham Palace</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>55</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Hideout of the infamous Windsor family.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Buckingham Palace, London, Greater London SW1A 1AA, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 55
+Description: Hideout of the infamous Windsor family.
+Address: Buckingham Palace, London, Greater London SW1A 1AA, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.14189,51.501363999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Brooks's</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>56</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Private “gentleman's” club.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>60 St James's St London SW1A 1LN			</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 56
+Description: Private “gentleman's” club.
+Address: 60 St James's St London SW1A 1LN			]]></description>
+				<Point>
+					<coordinates>-0.13971858035665718,51.506724943468086,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Carlton Club</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>57</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Traditional club house of the elite ranks of the Conservative Party.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>69 St James's St London, Greater London SW1A 1PJ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 57
+Description: Traditional club house of the elite ranks of the Conservative Party.
+Address: 69 St James's St London, Greater London SW1A 1PJ]]></description>
+				<Point>
+					<coordinates>-0.13882727119869287,51.50587136509771,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>CIaridge’s</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>58</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Five star hotel. Connections with royalty have led to it sometimes being referred to as an “annexe to Buckingham Palace".</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>49 Brook Street City of Westminster, W1K 4HR</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 58
+Description: Five star hotel. Connections with royalty have led to it sometimes being referred to as an “annexe to Buckingham Palace".
+Address: 49 Brook Street City of Westminster, W1K 4HR]]></description>
+				<Point>
+					<coordinates>-0.148039,51.5125004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Duke of Westminster</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>59</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>The Grosvenor Group. owned by the Duke and family. controls swathes of London's swanky Mayfair. The Duke is said to be worth £7.35 billion and was 7th in the Sunday Times Rich List 2012 the richest British person.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>70 Grosvenor Street, W1K 3JP</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 59
+Description: The Grosvenor Group. owned by the Duke and family. controls swathes of London's swanky Mayfair. The Duke is said to be worth £7.35 billion and was 7th in the Sunday Times Rich List 2012 the richest British person.
+Address: 70 Grosvenor Street, W1K 3JP]]></description>
+				<Point>
+					<coordinates>-0.1448802,51.5121786,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Fortnum &amp; Mason</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>60</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Supermarket of the ruling class for over 300 years and tax-dodger extraordinaire, the place to stock up on your caviare and foie gras.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Fortnum &amp; Mason, 181 Piccadilly, City of Westminster, W1A 1ER, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 60
+Description: Supermarket of the ruling class for over 300 years and tax-dodger extraordinaire, the place to stock up on your caviare and foie gras.
+Address: Fortnum & Mason, 181 Piccadilly, City of Westminster, W1A 1ER, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.13828251024244764,51.508264651864714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Mahiki</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>61</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Cocktail bar of the feral rich owned by Luxury Lifestyle Group Brompton Brands.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>1 Dover St, City of Westminster, London W1S 4LA
+</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 61
+Description: Cocktail bar of the feral rich owned by Luxury Lifestyle Group Brompton Brands.
+Address: 1 Dover St, City of Westminster, London W1S 4LA
+]]></description>
+				<Point>
+					<coordinates>-0.14137629999999998,51.507718399999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Naval &amp; Military Club</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>62</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>a.k.a. “In and Out". Private “gentlemen's" club.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>4 St James's Square London, Greater London SW1 4JU United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 62
+Description: a.k.a. “In and Out". Private “gentlemen's" club.
+Address: 4 St James's Square London, Greater London SW1 4JU United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.13505499999999998,51.507794000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>The Ritz</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>63</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Famous luxury hotel that has housed capitalists since 1906, including Margaret Thatcher who died in her suite here on 8 April 2013.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>150 Piccadilly, W1J 9BS</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 63
+Description: Famous luxury hotel that has housed capitalists since 1906, including Margaret Thatcher who died in her suite here on 8 April 2013.
+Address: 150 Piccadilly, W1J 9BS]]></description>
+				<Point>
+					<coordinates>-0.14142349999999998,51.5071662,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Tramp</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>64</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Drinking den for minor royals and other eurotrash coke-heads.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>40 Jermyn Street, London SW1Y 6DN, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 64
+Description: Drinking den for minor royals and other eurotrash coke-heads.
+Address: 40 Jermyn Street, London SW1Y 6DN, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.13756700608212213,51.508176431710744,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>Sotheby’s</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>65</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Complicit in Israeli war crimes.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>34-35 New Bond St, London, Greater London W1S 2RT
+</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 65
+Description: Complicit in Israeli war crimes.
+Address: 34-35 New Bond St, London, Greater London W1S 2RT
+]]></description>
+				<Point>
+					<coordinates>-0.1437408,51.5118431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-979-FF8277</styleUrl>
+				<name>W London
+</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Dens of the Rich</displayName>
+						<value>66</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Recently bought by Al Faisal Holding. a company established and owned by Sheikh Faisal Bin Qassim AI Thani of Qatar.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>10 Wardour Street, Leicester Square, London, W1D 6QF </value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Dens of the Rich: 66
+Description: Recently bought by Al Faisal Holding. a company established and owned by Sheikh Faisal Bin Qassim AI Thani of Qatar.
+Address: 10 Wardour Street, Leicester Square, London, W1D 6QF ]]></description>
+				<Point>
+					<coordinates>-0.13155945389780754,51.51082526853182,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Arms</name>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>Babcock International Group</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value>35</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Awarded £15m contract by the MoD to support the design of the UK's nuclear-armed submarines.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>33 Wigmore St, London, Greater London W1U 1QX, UK</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 35
+Description: Awarded £15m contract by the MoD to support the design of the UK's nuclear-armed submarines.
+Address: 33 Wigmore St, London, Greater London W1U 1QX, UK]]></description>
+				<Point>
+					<coordinates>-0.1481188,51.5161837,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>BAE Systems</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value>36</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Riddled with corruption, BAE is the world's 3rd largest arms producer and it sells its weaponry indiscriminately around the world.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>6 Carlton Gardens London, Greater London SW1Y 5AD, UK</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 36
+Description: Riddled with corruption, BAE is the world's 3rd largest arms producer and it sells its weaponry indiscriminately around the world.
+Address: 6 Carlton Gardens London, Greater London SW1Y 5AD, UK]]></description>
+				<Point>
+					<coordinates>-0.1334476,51.5060472,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>Finmeccanica UK</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value>37</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Italian company Finmeccanica is the world's 8th largest arms company.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>8-10 Great George St London, Greater London SW1P 3AE</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 37
+Description: Italian company Finmeccanica is the world's 8th largest arms company.
+Address: 8-10 Great George St London, Greater London SW1P 3AE]]></description>
+				<Point>
+					<coordinates>-0.1284807,51.501126199999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>General Dynamics UK</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value>38</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>General Dynamics is the world's 4th largest anns producer. A manufacturer of military drones, it has supplied weapons to the US, Israel and Saudi Arabia.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>11-12 Buckingham Gate, London, Greater London SW1E 6LB, UK</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 38
+Description: General Dynamics is the world's 4th largest anns producer. A manufacturer of military drones, it has supplied weapons to the US, Israel and Saudi Arabia.
+Address: 11-12 Buckingham Gate, London, Greater London SW1E 6LB, UK]]></description>
+				<Point>
+					<coordinates>-0.1407119,51.499938,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>Lockheed Martin UK</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value>39</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>World's biggest arms producer. Produces F16 and F35 fighter aircraft, cluster bombs and nuclear weapons. Involved in surveillance and information processing for the CIA and the FBI. (Cunard House)</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>15 Regent St, London SW1Y 4LR, UK</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 39
+Description: World's biggest arms producer. Produces F16 and F35 fighter aircraft, cluster bombs and nuclear weapons. Involved in surveillance and information processing for the CIA and the FBI. (Cunard House)
+Address: 15 Regent St, London SW1Y 4LR, UK]]></description>
+				<Point>
+					<coordinates>-0.1341824,51.508789099999994,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>Northrop Grumman UK</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value>40</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>One of the world's largest defence contractors. and the largest builder of naval vessels.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Clareville House, 26-27 Oxendon St, London, Greater London SW1Y 4EL, UK</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 40
+Description: One of the world's largest defence contractors. and the largest builder of naval vessels.
+Address: Clareville House, 26-27 Oxendon St, London, Greater London SW1Y 4EL, UK]]></description>
+				<Point>
+					<coordinates>-0.1315159,51.509823499999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>QinetiQ</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value>41</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Manufactures drones and armed robots used in Afghanistan and Iraq.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>53 Chandos Pl London, Greater London WC2N 4HS, UK</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 41
+Description: Manufactures drones and armed robots used in Afghanistan and Iraq.
+Address: 53 Chandos Pl London, Greater London WC2N 4HS, UK]]></description>
+				<Point>
+					<coordinates>-0.12548009999999998,51.509801499999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>Rolls-Royce Group</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value>42</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>World's 18th-largest arms producer.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>65 Buckingham Palace Road, London, SW1E 6AT</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 42
+Description: World's 18th-largest arms producer.
+Address: 65 Buckingham Palace Road, London, SW1E 6AT]]></description>
+				<Point>
+					<coordinates>-0.1441005,51.497316899999994,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>MBDA</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value>43</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>MBDA's shareholders are BAE Systems. EADS and Finmeccanica. In 2012, the Group recorded a turnover of 3 billion Euros, and produced about 3,000 missiles.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>11 Strand, London, Greater London WC2N 5HR</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 43
+Description: MBDA's shareholders are BAE Systems. EADS and Finmeccanica. In 2012, the Group recorded a turnover of 3 billion Euros, and produced about 3,000 missiles.
+Address: 11 Strand, London, Greater London WC2N 5HR]]></description>
+				<Point>
+					<coordinates>-0.1259623,51.5078464,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>L-3</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value>44</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>One of the biggest arms dealers in the world. Major developer of drones and provides intelligence and surveillance technology to the Pentagon.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Amadeus House 27B Floral St, London, Greater London WC2E 9DP</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 44
+Description: One of the biggest arms dealers in the world. Major developer of drones and provides intelligence and surveillance technology to the Pentagon.
+Address: Amadeus House 27B Floral St, London, Greater London WC2E 9DP]]></description>
+				<Point>
+					<coordinates>-0.1251815,51.51212340000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>SAAB</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Produces fighter aircraft, drones, combat weapons, missile systems, torpedoes and more. (Sentinel House)</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>16 Harcourt Street, W1H 4AD</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 
+Description: Produces fighter aircraft, drones, combat weapons, missile systems, torpedoes and more. (Sentinel House)
+Address: 16 Harcourt Street, W1H 4AD]]></description>
+				<Point>
+					<coordinates>-0.16508260000000002,51.5201114,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1131-FF8277</styleUrl>
+				<name>Thales</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Arms</displayName>
+						<value>45</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>World's 11th largest arms company. Produces radars and electronic surveillance satellites, drones and helicopter avionics, armoured vehicles. mortar systems and missiles.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>4 Carlton Gardens. SW1Y 5AA</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Arms: 45
+Description: World's 11th largest arms company. Produces radars and electronic surveillance satellites, drones and helicopter avionics, armoured vehicles. mortar systems and missiles.
+Address: 4 Carlton Gardens. SW1Y 5AA]]></description>
+				<Point>
+					<coordinates>-0.1336789,51.5057488,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-979-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/979-biz-bar.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1131-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1131-crisis-crime.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1213-FF7C2F'>
+			<IconStyle>
+				<color>ff2F7CFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1213-fac-police.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>layers7-9</name>
+		<description><![CDATA[#J11 Map Of The Capitalist West End
+
+Presenting the action map for the June 11 Carnival Against Capitalism. 100 locations in the West End connected to blatant murder, oppression and exploitation.
+
+source: https://network23.org/stopg8/j11-carnival-against-capitalism/j11-map-of-the-capitalist-west-end/]]></description>
+		<Folder>
+			<name>Mining</name>
+			<Placemark>
+				<styleUrl>#icon-1161-FF8277</styleUrl>
+				<name>ArcelorMittal</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Mining</displayName>
+						<value>74</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>The world's biggest steel company and the EU's 5th largest polluter. (7th Floor) </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Berkeley Square House, Berkeley Square, London W1J 6DA, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Mining: 74
+Description: The world's biggest steel company and the EU's 5th largest polluter. (7th Floor) 
+Address: Berkeley Square House, Berkeley Square, London W1J 6DA, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.1447909300941319,51.50982134198149,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1161-FF8277</styleUrl>
+				<name>Antofagasta</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Mining</displayName>
+						<value>75</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Owns the Los Pelambres mine in Chile where locals have been on hunger strike against the land grabs for the mine.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Cleveland House, 33 King Street, London, SW1Y 6RJ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Mining: 75
+Description: Owns the Los Pelambres mine in Chile where locals have been on hunger strike against the land grabs for the mine.
+Address: Cleveland House, 33 King Street, London, SW1Y 6RJ]]></description>
+				<Point>
+					<coordinates>-0.13636103009412182,51.50663023800608,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1161-FF8277</styleUrl>
+				<name>BHP Billiton</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Mining</displayName>
+						<value>76</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>The world's largest mining company. Guilty of countless human and labour rights abuses and attacks on indigenous peoples.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Neathouse Pl, City of Westminster, London SW1V, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Mining: 76
+Description: The world's largest mining company. Guilty of countless human and labour rights abuses and attacks on indigenous peoples.
+Address: Neathouse Pl, City of Westminster, London SW1V, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.14193573009413285,51.49474432320029,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1161-FF8277</styleUrl>
+				<name>Eurasian Natural Resources Corporation (ENRC)</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Mining</displayName>
+						<value>77</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Global minerals exploitation outfit.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>16 St James's St, London, Greater London SW1A 1ER, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Mining: 77
+Description: Global minerals exploitation outfit.
+Address: 16 St James's St, London, Greater London SW1A 1ER, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.13895577546304594,51.5063066694833,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1161-FF8277</styleUrl>
+				<name>GCM Resources</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Mining</displayName>
+						<value>78</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Coal mining company responsible for displacement of 200.000 people in Bangladesh.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>2nd Floor. Foxglove House. 166-168 Piccadilly. W1J 9EF</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Mining: 78
+Description: Coal mining company responsible for displacement of 200.000 people in Bangladesh.
+Address: 2nd Floor. Foxglove House. 166-168 Piccadilly. W1J 9EF]]></description>
+				<Point>
+					<coordinates>-0.13992664540364785,51.50789776367884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1161-FF8277</styleUrl>
+				<name>Glencore</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Mining</displayName>
+						<value>79</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>World's largest commodities trading company. linked to brutal regimes and worldwide environmental and social destruction. (recently merged with Xstrata to form Glencorexstrata).</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>50 Berkeley St, London W1J 8HD, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Mining: 79
+Description: World's largest commodities trading company. linked to brutal regimes and worldwide environmental and social destruction. (recently merged with Xstrata to form Glencorexstrata).
+Address: 50 Berkeley St, London W1J 8HD, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.1434230300941408,51.50780673947161,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1161-FF8277</styleUrl>
+				<name>Lonmin</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Mining</displayName>
+						<value>80</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>South African mining company, owner of the Marikana mine where 34 strikers were massacred on 16 August 2012.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>4-5 Grosvenor Place, SW1X 7YL</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Mining: 80
+Description: South African mining company, owner of the Marikana mine where 34 strikers were massacred on 16 August 2012.
+Address: 4-5 Grosvenor Place, SW1X 7YL]]></description>
+				<Point>
+					<coordinates>-0.15145220244676239,51.50159357176133,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1161-FF8277</styleUrl>
+				<name>Tata</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Mining</displayName>
+						<value>81</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Indian steel. mining and chemicals giant. linked to numerous acts of environmental destruction and violence including the 2006 police massacre of 12 protesters at the Kalinganagar steel plant.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>18 Grosvenor Place. SW1X 7HS</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Mining: 81
+Description: Indian steel. mining and chemicals giant. linked to numerous acts of environmental destruction and violence including the 2006 police massacre of 12 protesters at the Kalinganagar steel plant.
+Address: 18 Grosvenor Place. SW1X 7HS]]></description>
+				<Point>
+					<coordinates>-0.14950022820698905,51.50035642865372,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1161-FF8277</styleUrl>
+				<name>Vedanta</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Mining</displayName>
+						<value>82</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>India's largest mining company, infamous for massive environmental destruction and attacks on indigenous communities.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>16 Berkeley Street, W1J 8DZ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Mining: 82
+Description: India's largest mining company, infamous for massive environmental destruction and attacks on indigenous communities.
+Address: 16 Berkeley Street, W1J 8DZ]]></description>
+				<Point>
+					<coordinates>-0.14365843009409218,51.50845144027488,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1161-FF8277</styleUrl>
+				<name>Xstrata</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Mining</displayName>
+						<value>83</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Mining multinational connected to massive pollution, grabbing Australian aboriginal lands, and killings in Peru in 2012. (recently merged with Glencore to form Glencorexstrata). (1st floor)
+</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Almack House, 26-28 King St, London, Greater London SW1Y 6QW
+</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Mining: 83
+Description: Mining multinational connected to massive pollution, grabbing Australian aboriginal lands, and killings in Peru in 2012. (recently merged with Glencore to form Glencorexstrata). (1st floor)
+
+Address: Almack House, 26-28 King St, London, Greater London SW1Y 6QW
+]]></description>
+				<Point>
+					<coordinates>-0.13721568650817062,51.50617901358566,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Energy</name>
+			<Placemark>
+				<styleUrl>#icon-1141-FF7C2F</styleUrl>
+				<name>BP</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Energy</displayName>
+						<value>67</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Oil and gas giant, responsible for wrecking the climate and some of the biggest ever environmental disasters.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>1 St James Square, SW1Y 4PD</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Energy: 67
+Description: Oil and gas giant, responsible for wrecking the climate and some of the biggest ever environmental disasters.
+Address: 1 St James Square, SW1Y 4PD]]></description>
+				<Point>
+					<coordinates>-0.13463419999999998,51.5077001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1141-FF7C2F</styleUrl>
+				<name>Clean Coal</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Energy</displayName>
+						<value>68</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Has five Underground Coal Gasification licenses around UK.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Third Floor. 15 Poland St. W1F 8QE</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Energy: 68
+Description: Has five Underground Coal Gasification licenses around UK.
+Address: Third Floor. 15 Poland St. W1F 8QE]]></description>
+				<Point>
+					<coordinates>-0.1369202,51.514765399999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1141-FF7C2F</styleUrl>
+				<name>Cluff Natural Resources</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Energy</displayName>
+						<value>69</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Purchased 2 new Underground Coal Gasification licences, one in Carmarthenshire, the other on the borders of Merseyside and North Wales.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Third Floor. 5-8 The Sanctuary. SW1P 3JS</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Energy: 69
+Description: Purchased 2 new Underground Coal Gasification licences, one in Carmarthenshire, the other on the borders of Merseyside and North Wales.
+Address: Third Floor. 5-8 The Sanctuary. SW1P 3JS]]></description>
+				<Point>
+					<coordinates>-0.1295452,51.4993455,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1141-FF7C2F</styleUrl>
+				<name>Island Gas</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Energy</displayName>
+						<value>70</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>One of the Fracking bad guys. Interested in exploiting shale gas in the North West and Midlands.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>7 Down Street. W1J 7AJ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Energy: 70
+Description: One of the Fracking bad guys. Interested in exploiting shale gas in the North West and Midlands.
+Address: 7 Down Street. W1J 7AJ]]></description>
+				<Point>
+					<coordinates>-0.1485968,51.5053665,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Foreign Governments</name>
+			<Placemark>
+				<styleUrl>#icon-1195-FF7C2F</styleUrl>
+				<name>Arab-British Chamber Of Commerce</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Foreign Governments</displayName>
+						<value>71</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Represents UK and Arab government and business elites.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>43 Upper Grosvenor St, London, Greater London W1K 2NJ, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Foreign Governments: 71
+Description: Represents UK and Arab government and business elites.
+Address: 43 Upper Grosvenor St, London, Greater London W1K 2NJ, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.1533192,51.5104615,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1195-FF7C2F</styleUrl>
+				<name>Saudi Arabia Embassy.</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Foreign Governments</displayName>
+						<value>72</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>30 Charles Street, London, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Foreign Governments: 72
+Description: 
+Address: 30 Charles Street, London, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.14796787077784757,51.50740779569214,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1195-FF7C2F</styleUrl>
+				<name>US Embassy.</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Foreign Governments</displayName>
+						<value>73</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>24 Grosvenor Square, London
+</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Foreign Governments: 73
+Description: 
+Address: 24 Grosvenor Square, London
+]]></description>
+				<Point>
+					<coordinates>-0.15321821415545855,51.51111322911678,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1195-FF7C2F'>
+			<IconStyle>
+				<color>ff2F7CFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1195-fac-flag.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1161-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1161-crisis-landslide.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1141-FF7C2F'>
+			<IconStyle>
+				<color>ff2F7CFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1141-crisis-electrical.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

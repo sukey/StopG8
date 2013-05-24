@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>layer13</name>
+		<description><![CDATA[#J11 Map Of The Capitalist West End
+
+Presenting the action map for the June 11 Carnival Against Capitalism. 100 locations in the West End connected to blatant murder, oppression and exploitation.
+
+source: https://network23.org/stopg8/j11-carnival-against-capitalism/j11-map-of-the-capitalist-west-end/]]></description>
+		<Folder>
+			<name>Security</name>
+			<Placemark>
+				<styleUrl>#icon-1143-FF7C2F</styleUrl>
+				<name>3rg</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Security</displayName>
+						<value>98</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Provides risk management and security services to the elite.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Berkeley Square House, Berkeley Square, London, W1J 6BE</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Security: 98
+Description: Provides risk management and security services to the elite.
+Address: Berkeley Square House, Berkeley Square, London, W1J 6BE]]></description>
+				<Point>
+					<coordinates>-0.1448938,51.509706099999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1143-FF7C2F</styleUrl>
+				<name>Aegis</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Security</displayName>
+						<value>99</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Had a £225m contract from the US government to oversee all private military personnel in Iraq. when the US Military pulled out of Baghdad it was replaced by eight companies including Aegis.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>118 Piccadilly, W1J 7NW</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Security: 99
+Description: Had a £225m contract from the US government to oversee all private military personnel in Iraq. when the US Military pulled out of Baghdad it was replaced by eight companies including Aegis.
+Address: 118 Piccadilly, W1J 7NW]]></description>
+				<Point>
+					<coordinates>-0.147883,51.5043991,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1143-FF7C2F</styleUrl>
+				<name>Erinys International</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Security</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>In 2004 Erinys staff interrogated a 16-year old Iraqi youth by restraining him with car tyres around his body.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>66 Chiltern Street. W1U 4JT</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Security: 
+Description: In 2004 Erinys staff interrogated a 16-year old Iraqi youth by restraining him with car tyres around his body.
+Address: 66 Chiltern Street. W1U 4JT]]></description>
+				<Point>
+					<coordinates>-0.1557537,51.520626,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1143-FF7C2F</styleUrl>
+				<name>G4S</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Security</displayName>
+						<value>100</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Largest security company in the world. Securing the world for capitalists. Runs prisons and migrant detention centres and profits from privatisation worldwide.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>105 Victoria Street, SW1E 6QT</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Security: 100
+Description: Largest security company in the world. Securing the world for capitalists. Runs prisons and migrant detention centres and profits from privatisation worldwide.
+Address: 105 Victoria Street, SW1E 6QT]]></description>
+				<Point>
+					<coordinates>-0.1370943,51.4971064,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1143-FF7C2F'>
+			<IconStyle>
+				<color>ff2F7CFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1143-crisis-epicenter.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

@@ -1,0 +1,212 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Brevan Howard", "Description": "Hedge Funds:  Description: One of Europe's biggest hedge funds, speculating on mortgages, Greek &amp; Spanish crises. Address: 55 Baker Street. W1U 8EW" }, "geometry": { "type": "Point", "coordinates": [ -0.156738, 51.518665, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Blue Bay Asset Management", "Description": "Hedge Funds: 12 Description: One of the biggest UK hedge funds, a vulture fund that buys ‘distressed debts‘ in poor countries and then pressures for repayment. Address: 77 Grosvenor Street, W1K" }, "geometry": { "type": "Point", "coordinates": [ -0.145143, 51.512047, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cevian Capital", "Description": "Hedge Funds: 13 Description: Profits from speculating on financial crisis and Euro collapse. taking over ex-public companies. running vulture and bankruptcy funds and investing in gold mines. Address: 17 Cavendish Square, W1G" }, "geometry": { "type": "Point", "coordinates": [ -0.146048, 51.516659, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CQS Investment Management", "Description": "Hedge Funds: 14 Description: Big hedge fund that was a major speculator in sub-prime mortgages. Also provides free office space for disgraced Conservative party fixer Adam Werrity. Address: 33 Grosvenor Place. SW1X 7HY" }, "geometry": { "type": "Point", "coordinates": [ -0.148483, 51.499516, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "COMAC Capital", "Description": "Hedge Funds: 15 Description: Hedge fund paid its founding partner EUR42 million in 2012. Address: 5 Stratton Street, W1J 8LA" }, "geometry": { "type": "Point", "coordinates": [ -0.143264, 51.506905, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ecofin", "Description": "Hedge Funds: 16 Description: Investment fund involved in privatisation of water and power utilities. Address: Burdett House, 15 Buckingham St, City of Westminster, London WC2N, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.123279, 51.508286, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Elliott Associates", "Description": "Hedge Funds: 17 Description: Infamous for buying ‘distressed‘ debt from Argentina. Peru. Greece and then forcing full repayment or suing. CEO is a major Republican Party donor. Address: Cleveland House, 4th Floor, 33 King Street, SW1Y 6RJ" }, "geometry": { "type": "Point", "coordinates": [ -0.136515, 51.506699, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "GLC", "Description": "Hedge Funds: 18 Description: Dodgy hedge fund whose boss greased Labour's Ed Milliband's leadership campaign fund with £25 000. Address: Ingeni Building, 17 Broadwick Street. W1F 0AX" }, "geometry": { "type": "Point", "coordinates": [ -0.13527, 51.513523, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Horseman Capital", "Description": "Hedge Funds: 19 Description: Investing in luxury brands. luxury retailers, automobiles and Chinese banking. Address: 8-9 Chester Close, London SW1X 7BE, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.15009, 51.499901, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Investcorp", "Description": "Hedge Funds: 20 Description: Bahrain based hedge fund and real estate speculator managing the money of the Gulf oil rich. Address: 48 Grosvenor Street, W1K 3HW" }, "geometry": { "type": "Point", "coordinates": [ -0.149011, 51.511234, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lansdowne Partners", "Description": "Hedge Funds: 21 Description: Hedge Fund known for “shorting\" Northern Rock. allegedly making £100m. Boss Sir Paul Ruddock is a major Conservative party donor. Address: 15 Davies Street, W1K 3AG" }, "geometry": { "type": "Point", "coordinates": [ -0.147752, 51.511005, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Man Group", "Description": "Hedge Funds: 22 Description: One of UK's biggest hedge funds. currently hit by insider dealing scandals. Address: 1 Curzon Street, W1J 5HB" }, "geometry": { "type": "Point", "coordinates": [ -0.145645, 51.507549, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Millenium Global", "Description": "Hedge Funds: 23 Description: One of London's oldest hedge funds. set up in 1994. speculates on currencies and everything from fossil fuels to Third World debt. Address: 57-59 St James's St, London, Greater London SW1A 1LD, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.138641, 51.505775, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Och-Ziff Management", "Description": "Hedge Funds: 24 Description: Vulture fund known for profiting from Greek \"distressed debt‘. Also linked to the Mugabe regime in Zimbabwe and mining deals in Guinea. Address: 40 Argyll Street. W1F 7EB" }, "geometry": { "type": "Point", "coordinates": [ -0.140601, 51.514339, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Odey Asset Management", "Description": "Hedge Funds: 25 Description: Profits from speculating on bank failures and the Eurozone crisis. Address: 12 Upper Grosvenor Street, W1K 2ND" }, "geometry": { "type": "Point", "coordinates": [ -0.154321, 51.510468, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Paulson Europe", "Description": "Hedge Funds: 26 Description: World's 4th largest hedge fund managing $35.8 bn assets. best known for massive profits from sub-prime collapse. Address: 70 Jermyn Street. SW1Y 6NY" }, "geometry": { "type": "Point", "coordinates": [ -0.139329, 51.507496, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Spinnaker", "Description": "Hedge Funds: 27 Description: Vulture fund that speculates in government and corporate debt in poor countries. Address: 6 Grosvenor Street, W1K 4DJ" }, "geometry": { "type": "Point", "coordinates": [ -0.1454, 51.512161, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Altima Partners", "Description": "Private Equity: 28 Description: Runs a land grab fund and invests in fossil fuels. Address: 23 Savile Row. W1S 2ET" }, "geometry": { "type": "Point", "coordinates": [ -0.140969, 51.511963, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Blackstone", "Description": "Private Equity: 29 Description: World's largest “aItemative investment\" manager controlling more than $210 billion. Known for real estate speculation. Address: 40 Berkeley Square. W1J 5AL" }, "geometry": { "type": "Point", "coordinates": [ -0.146992, 51.509769, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bridgepoint Ventures", "Description": "Private Equity: 30 Description: Real estate development fund specialising in UK gentrification and US poverty. Address: 17 Savile Row, W1S 3PN" }, "geometry": { "type": "Point", "coordinates": [ -0.140608, 51.511192, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Carlyle Group", "Description": "Private Equity: 31 Description: Massive and controversial warmongering global asset management firm linked to George Bush Sr, owns CSI, global supplier of tear gas. Address: Landsdowne House, 57 Berkeley Square, London, Greater London W1J 6ER, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.144711, 51.508892, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Emergent Asset Management", "Description": "Private Equity: 32 Description: Runs \"African Agriland Fund\", speculator in food crops and farm land. (on Level 7)  Address: 7 Old Park Lane, W1K 1QR" }, "geometry": { "type": "Point", "coordinates": [ -0.14939, 51.504375, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hermitage Capital", "Description": "Private Equity: 33 Description: Major profiteer from post-Soviet privatisation programme and erstwhile backer of the Putin regime, before falling out with the prez. Has also financed Vedanta and other unsavoury global corporates. Address: 2-3 Golden Square, W1F 9HR" }, "geometry": { "type": "Point", "coordinates": [ -0.136897, 51.51215, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lion Capital", "Description": "Private Equity: 34 Description: Private equity firm. Address: 21 Grosvenor Place. SW1X 7HF" }, "geometry": { "type": "Point", "coordinates": [ -0.14918, 51.500195, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bank Leumi", "Description": "Banks: 1 Description: Israel's largest bank, finances settlement building in the Occupied Palestinian Territories. Address: 20 Stratford Place, W1C 1BG" }, "geometry": { "type": "Point", "coordinates": [ -0.149463, 51.514668, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Barclays Private Banking", "Description": "Banks: 2 Description: Private banking (i.e. banking for the rich) arm of the infamous tax avoiding, rate-fixing, alleged money laundering UK bank. Address: 41-43 Brook Street. W1K 4HJ" }, "geometry": { "type": "Point", "coordinates": [ -0.146565, 51.512562, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Citigroup Private Bank", "Description": "Banks: 3 Description: Mega-rich branch of the world's largest bank. Address: 41 Berkeley Square. W1J 5AN" }, "geometry": { "type": "Point", "coordinates": [ -0.14712, 51.509541, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Coutts", "Description": "Banks: 4 Description: Private bank and wealth manager, recently fined £8.75m for breaching money laundering regulations. Address: 440 Strand, WC2R OQS" }, "geometry": { "type": "Point", "coordinates": [ -0.121332, 51.510578, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "EFG Eurobank Ergasias", "Description": "Banks: 5 Description: One of the biggest private banks in Greece, owned by billionaire tycoon Spiros Latsis, kept afloat by international bailout money on the condition of pauperisation of the Greek population. Address: 25 Berkeley Square, W1J 6HN" }, "geometry": { "type": "Point", "coordinates": [ -0.14621, 51.51067, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "EFG Private Bank and London EFG Asset Management", "Description": "Banks: 6 Description: Another division of Latsis' Greek banking empire. Address: Leconfield House, Curzon St, London, Greater London W1J 5JB, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.149748, 51.506577, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Israel Discount Bank", "Description": "Banks: 7 Description: One of Israel's three largest banks. Finances the construction of Israeli settlements in the West Bank. Address: 65 Curzon St, London, Greater London W1J 8PE, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.144636, 51.507912, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Qatar National Bank (QNB)", "Description": "Banks: 8 Description: Banking arm of the Qatari regime. Address: 51 Grosvenor Street. W1K 3HH" }, "geometry": { "type": "Point", "coordinates": [ -0.144886, 51.512177, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Riyad Bank", "Description": "Banks: 9 Description: One of the largest Saudi Arabian banks. Address: 17B Curzon Street, London, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.14878, 51.506672, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Samba Financial Group", "Description": "Banks: 10 Description: Saudi Arabian bank and investment manager. Address: Nightingale House 65 Curzon St, London, Greater London W1J 8PE, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.144636, 51.507912, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Charing Cross Police Station.", "Description": "Courts and Police Stations: 46 Description:  Address: Agar St, London, WCZN 4JP" }, "geometry": { "type": "Point", "coordinates": [ -0.124525, 51.509811, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Scotland Yard.", "Description": "Courts and Police Stations: 47 Description:  Address: 8-10 Broadway, SW1H OBG" }, "geometry": { "type": "Point", "coordinates": [ -0.133122, 51.498734, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Supreme Court.", "Description": "Courts and Police Stations: 48 Description:  Address: Parliament Square, SW1P 3BD" }, "geometry": { "type": "Point", "coordinates": [ -0.126671, 51.50103, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "West End Central Police Station.", "Description": "Courts and Police Stations: 49 Description:  Address: 27 Savile Row, City of Westminster, London W1S" }, "geometry": { "type": "Point", "coordinates": [ -0.141334, 51.511593, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "?", "Description": "Dens of the Rich: 50 Description: Mayfair mansion bought by CEO of ArcelorMittal, Lakshmi Mittal. as a wedding present for his daughter. Came with a built in nightclub and full-sized squash court. Address: 21-23 Curzon St London, Greater London W1J 7TE" }, "geometry": { "type": "Point", "coordinates": [ -0.15015, 51.506245, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Annabel's", "Description": "Dens of the Rich: 51 Description: Nightclub frequented by drunken aristos, celebs and other mega-rich. Champagne at £3,600 a bottle. Address: 44 Berkeley Square, London, Greater London W1J 5QB" }, "geometry": { "type": "Point", "coordinates": [ -0.146488, 51.509422, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Asprey", "Description": "Dens of the Rich: 52 Description: The royal jeweller. Address: 167 New Bond St, London, Greater London W1S 4AY" }, "geometry": { "type": "Point", "coordinates": [ -0.142344, 51.51004, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boodle's", "Description": "Dens of the Rich: 53 Description: Private “gentlemen‘s\" club. Address: 28 Saint James's Street, London, Greater London SW1A 1HJ, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.139577, 51.506912, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bond Street", "Description": "Dens of the Rich: 54 Description: Ultimate shopping street of the global mega-rich. (lncludes Old and New Bond Street) Address: Old Bond St, City of Westminster, London, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.140889, 51.508881, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Buckingham Palace", "Description": "Dens of the Rich: 55 Description: Hideout of the infamous Windsor family. Address: Buckingham Palace, London, Greater London SW1A 1AA, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.14189, 51.501366, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Brooks's", "Description": "Dens of the Rich: 56 Description: Private “gentleman's” club. Address: 60 St James's St London SW1A 1LN" }, "geometry": { "type": "Point", "coordinates": [ -0.139719, 51.506725, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Carlton Club", "Description": "Dens of the Rich: 57 Description: Traditional club house of the elite ranks of the Conservative Party. Address: 69 St James's St London, Greater London SW1A 1PJ" }, "geometry": { "type": "Point", "coordinates": [ -0.138827, 51.505871, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CIaridge’s", "Description": "Dens of the Rich: 58 Description: Five star hotel. Connections with royalty have led to it sometimes being referred to as an “annexe to Buckingham Palace\". Address: 49 Brook Street City of Westminster, W1K 4HR" }, "geometry": { "type": "Point", "coordinates": [ -0.148039, 51.512501, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Duke of Westminster", "Description": "Dens of the Rich: 59 Description: The Grosvenor Group. owned by the Duke and family. controls swathes of London's swanky Mayfair. The Duke is said to be worth £7.35 billion and was 7th in the Sunday Times Rich List 2012 the richest British person. Address: 70 Grosvenor Street, W1K 3JP" }, "geometry": { "type": "Point", "coordinates": [ -0.14488, 51.51218, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Fortnum & Mason", "Description": "Dens of the Rich: 60 Description: Supermarket of the ruling class for over 300 years and tax-dodger extraordinaire, the place to stock up on your caviare and foie gras. Address: Fortnum &amp; Mason, 181 Piccadilly, City of Westminster, W1A 1ER, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.138283, 51.508266, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mahiki", "Description": "Dens of the Rich: 61 Description: Cocktail bar of the feral rich owned by Luxury Lifestyle Group Brompton Brands. Address: 1 Dover St, City of Westminster, London W1S 4LA" }, "geometry": { "type": "Point", "coordinates": [ -0.141376, 51.507717, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Naval & Military Club", "Description": "Dens of the Rich: 62 Description: a.k.a. “In and Out\". Private “gentlemen's\" club. Address: 4 St James's Square London, Greater London SW1 4JU United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.135055, 51.507793, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "The Ritz", "Description": "Dens of the Rich: 63 Description: Famous luxury hotel that has housed capitalists since 1906, including Margaret Thatcher who died in her suite here on 8 April 2013. Address: 150 Piccadilly, W1J 9BS" }, "geometry": { "type": "Point", "coordinates": [ -0.141423, 51.507168, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tramp", "Description": "Dens of the Rich: 64 Description: Drinking den for minor royals and other eurotrash coke-heads. Address: 40 Jermyn Street, London SW1Y 6DN, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.137567, 51.508175, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sotheby’s", "Description": "Dens of the Rich: 65 Description: Complicit in Israeli war crimes. Address: 34-35 New Bond St, London, Greater London W1S 2RT" }, "geometry": { "type": "Point", "coordinates": [ -0.143741, 51.511845, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W London", "Description": "Dens of the Rich: 66 Description: Recently bought by Al Faisal Holding. a company established and owned by Sheikh Faisal Bin Qassim AI Thani of Qatar. Address: 10 Wardour Street, Leicester Square, London, W1D 6QF" }, "geometry": { "type": "Point", "coordinates": [ -0.131559, 51.510826, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Babcock International Group", "Description": "Arms: 35 Description: Awarded £15m contract by the MoD to support the design of the UK's nuclear-armed submarines. Address: 33 Wigmore St, London, Greater London W1U 1QX, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.148119, 51.516186, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "BAE Systems", "Description": "Arms: 36 Description: Riddled with corruption, BAE is the world's 3rd largest arms producer and it sells its weaponry indiscriminately around the world. Address: 6 Carlton Gardens London, Greater London SW1Y 5AD, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.133448, 51.506046, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Finmeccanica UK", "Description": "Arms: 37 Description: Italian company Finmeccanica is the world's 8th largest arms company. Address: 8-10 Great George St London, Greater London SW1P 3AE" }, "geometry": { "type": "Point", "coordinates": [ -0.128481, 51.501125, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "General Dynamics UK", "Description": "Arms: 38 Description: General Dynamics is the world's 4th largest anns producer. A manufacturer of military drones, it has supplied weapons to the US, Israel and Saudi Arabia. Address: 11-12 Buckingham Gate, London, Greater London SW1E 6LB, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.140712, 51.499939, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lockheed Martin UK", "Description": "Arms: 39 Description: World's biggest arms producer. Produces F16 and F35 fighter aircraft, cluster bombs and nuclear weapons. Involved in surveillance and information processing for the CIA and the FBI. (Cunard House) Address: 15 Regent St, London SW1Y 4LR, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.134182, 51.508789, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Northrop Grumman UK", "Description": "Arms: 40 Description: One of the world's largest defence contractors. and the largest builder of naval vessels. Address: Clareville House, 26-27 Oxendon St, London, Greater London SW1Y 4EL, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.131516, 51.509823, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "QinetiQ", "Description": "Arms: 41 Description: Manufactures drones and armed robots used in Afghanistan and Iraq. Address: 53 Chandos Pl London, Greater London WC2N 4HS, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.12548, 51.5098, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Rolls-Royce Group", "Description": "Arms: 42 Description: World's 18th-largest arms producer. Address: 65 Buckingham Palace Road, London, SW1E 6AT" }, "geometry": { "type": "Point", "coordinates": [ -0.1441, 51.497318, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "MBDA", "Description": "Arms: 43 Description: MBDA's shareholders are BAE Systems. EADS and Finmeccanica. In 2012, the Group recorded a turnover of 3 billion Euros, and produced about 3,000 missiles. Address: 11 Strand, London, Greater London WC2N 5HR" }, "geometry": { "type": "Point", "coordinates": [ -0.125962, 51.507847, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "L-3", "Description": "Arms: 44 Description: One of the biggest arms dealers in the world. Major developer of drones and provides intelligence and surveillance technology to the Pentagon. Address: Amadeus House 27B Floral St, London, Greater London WC2E 9DP" }, "geometry": { "type": "Point", "coordinates": [ -0.125182, 51.512123, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SAAB", "Description": "Arms:  Description: Produces fighter aircraft, drones, combat weapons, missile systems, torpedoes and more. (Sentinel House) Address: 16 Harcourt Street, W1H 4AD" }, "geometry": { "type": "Point", "coordinates": [ -0.165083, 51.520111, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Thales", "Description": "Arms: 45 Description: World's 11th largest arms company. Produces radars and electronic surveillance satellites, drones and helicopter avionics, armoured vehicles. mortar systems and missiles. Address: 4 Carlton Gardens. SW1Y 5AA" }, "geometry": { "type": "Point", "coordinates": [ -0.133679, 51.505749, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ArcelorMittal", "Description": "Mining: 74 Description: The world's biggest steel company and the EU's 5th largest polluter. (7th Floor)  Address: Berkeley Square House, Berkeley Square, London W1J 6DA, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.144791, 51.509823, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Antofagasta", "Description": "Mining: 75 Description: Owns the Los Pelambres mine in Chile where locals have been on hunger strike against the land grabs for the mine. Address: Cleveland House, 33 King Street, London, SW1Y 6RJ" }, "geometry": { "type": "Point", "coordinates": [ -0.136361, 51.50663, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "BHP Billiton", "Description": "Mining: 76 Description: The world's largest mining company. Guilty of countless human and labour rights abuses and attacks on indigenous peoples. Address: Neathouse Pl, City of Westminster, London SW1V, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.141936, 51.494743, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Eurasian Natural Resources Corporation (ENRC)", "Description": "Mining: 77 Description: Global minerals exploitation outfit. Address: 16 St James's St, London, Greater London SW1A 1ER, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.138956, 51.506306, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "GCM Resources", "Description": "Mining: 78 Description: Coal mining company responsible for displacement of 200.000 people in Bangladesh. Address: 2nd Floor. Foxglove House. 166-168 Piccadilly. W1J 9EF" }, "geometry": { "type": "Point", "coordinates": [ -0.139927, 51.507896, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Glencore", "Description": "Mining: 79 Description: World's largest commodities trading company. linked to brutal regimes and worldwide environmental and social destruction. (recently merged with Xstrata to form Glencorexstrata). Address: 50 Berkeley St, London W1J 8HD, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.143423, 51.507809, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lonmin", "Description": "Mining: 80 Description: South African mining company, owner of the Marikana mine where 34 strikers were massacred on 16 August 2012. Address: 4-5 Grosvenor Place, SW1X 7YL" }, "geometry": { "type": "Point", "coordinates": [ -0.151452, 51.501595, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tata", "Description": "Mining: 81 Description: Indian steel. mining and chemicals giant. linked to numerous acts of environmental destruction and violence including the 2006 police massacre of 12 protesters at the Kalinganagar steel plant. Address: 18 Grosvenor Place. SW1X 7HS" }, "geometry": { "type": "Point", "coordinates": [ -0.1495, 51.500355, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Vedanta", "Description": "Mining: 82 Description: India's largest mining company, infamous for massive environmental destruction and attacks on indigenous communities. Address: 16 Berkeley Street, W1J 8DZ" }, "geometry": { "type": "Point", "coordinates": [ -0.143658, 51.50845, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Xstrata", "Description": "Mining: 83 Description: Mining multinational connected to massive pollution, grabbing Australian aboriginal lands, and killings in Peru in 2012. (recently merged with Glencore to form Glencorexstrata). (1st floor) Address: Almack House, 26-28 King St, London, Greater London SW1Y 6QW" }, "geometry": { "type": "Point", "coordinates": [ -0.137216, 51.50618, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "BP", "Description": "Energy: 67 Description: Oil and gas giant, responsible for wrecking the climate and some of the biggest ever environmental disasters. Address: 1 St James Square, SW1Y 4PD" }, "geometry": { "type": "Point", "coordinates": [ -0.134634, 51.507702, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Clean Coal", "Description": "Energy: 68 Description: Has five Underground Coal Gasification licenses around UK. Address: Third Floor. 15 Poland St. W1F 8QE" }, "geometry": { "type": "Point", "coordinates": [ -0.13692, 51.514767, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cluff Natural Resources", "Description": "Energy: 69 Description: Purchased 2 new Underground Coal Gasification licences, one in Carmarthenshire, the other on the borders of Merseyside and North Wales. Address: Third Floor. 5-8 The Sanctuary. SW1P 3JS" }, "geometry": { "type": "Point", "coordinates": [ -0.129545, 51.499348, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Island Gas", "Description": "Energy: 70 Description: One of the Fracking bad guys. Interested in exploiting shale gas in the North West and Midlands. Address: 7 Down Street. W1J 7AJ" }, "geometry": { "type": "Point", "coordinates": [ -0.148597, 51.505367, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Arab-British Chamber Of Commerce", "Description": "Foreign Governments: 71 Description: Represents UK and Arab government and business elites. Address: 43 Upper Grosvenor St, London, Greater London W1K 2NJ, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.153319, 51.510464, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Saudi Arabia Embassy.", "Description": "Foreign Governments: 72 Description:  Address: 30 Charles Street, London, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.147968, 51.507408, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "US Embassy.", "Description": "Foreign Governments: 73 Description:  Address: 24 Grosvenor Square, London" }, "geometry": { "type": "Point", "coordinates": [ -0.153218, 51.511112, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bell Pottinger", "Description": "PR, Communications and Media: 88 Description: PR firm specialising in clients with 'reputational issues’, from the Shale gas industry to the genocidal Sri Lankan regime. Address: 14 Curzon St, City of Westminster, W1J 5HN, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.147172, 51.506908, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Brown Lloyd James", "Description": "PR, Communications and Media: 89 Description: Did PR for Gaddafi and the Assads. Address: 25 Lower Belgrave St, City of Westminster, SW1W 0NR, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.147357, 51.496124, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "BTP Advisers International", "Description": "PR, Communications and Media: 90 Description: Specialises in PR advice for African regimes. Address: 33 St. James's Square, SW1Y 4JS" }, "geometry": { "type": "Point", "coordinates": [ -0.13432, 51.50742, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Facebook", "Description": "PR, Communications and Media: 91 Description: Increasingly used by law enforcement agencies, willingly provides user information when requested by governments. Address: 42 Earlham St, London WC2H 9LA, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.125749, 51.513741, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Google", "Description": "PR, Communications and Media: 92 Description: Capitalist hipster scumbags attempting to monopolise all information on the internet, data-mine users’ personal data and use it for profit. Address: 1-13 St Giles High Street, Dyott St, London WC2H 8AG, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.127259, 51.516113, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Grayling PR", "Description": "PR, Communications and Media: 93 Description: Boast clients from Coca Cola to Middle Eastern dictatorships. Address: 29 Lexington Street London W1F 9AH" }, "geometry": { "type": "Point", "coordinates": [ -0.136016, 51.512726, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Grayling PR (2nd Site)", "Description": "PR, Communications and Media:  Description: Boast clients from Coca Cola to Middle Eastern dictatorships. Address: Bressenden Place, Victoria, Portland House, London SW1E 5RS, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.141521, 51.497433, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "M&C Saatchi", "Description": "PR, Communications and Media: 94 Description: Advertising agency famous for running Margaret Thatcher's campaigns. Address: 34-36 Golden Square, London, Greater London W1F 9EE, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.137287, 51.51186, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Microsoft", "Description": "PR, Communications and Media: 95 Description: Renowned for mistreating its workforce, many of whom are kept on precarious 'temp' contracts. collaborates with the Chinese government and has banned xbox users who identify themselves as gay. Address: Cardinal Place, 80-100 Victoria Street, London SW1E 5JL, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.140069, 51.497253, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Vogue Magazine", "Description": "PR, Communications and Media: 96 Description: World leader in telling women how to look and act. Address: Vogue House, 1-2 Hanover Square, London, Greater London W1S 1JX, UK" }, "geometry": { "type": "Point", "coordinates": [ -0.143087, 51.51339, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yahoo", "Description": "PR, Communications and Media: 97 Description: Complicit in Chinese internet censorship. Released the identity of users to the Chinese authorities. (Level 5) Address: 125 Shaftesbury AvenueLondon, Greater London WC2H 8AD, United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.128442, 51.513939, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "25 North Row", "Description": "Property: 85 Description: Owned by Barwa Real Estate Co, a company owned by the Qatari government. Address: 25 North Row, W1K 6DJ" }, "geometry": { "type": "Point", "coordinates": [ -0.154639, 51.513191, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Land Securities", "Description": "Property: 86 Description: The largest commercial property company in the UK. Address: 5 The Strand. WC2N 5AF" }, "geometry": { "type": "Point", "coordinates": [ -0.126215, 51.507977, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Qatari Diar", "Description": "Property: 87 Description: Controlled by Qatar Investment Authority, whose key person is the Qatari Prime Minister. Address: 77 Grosvenor Street. W1K 3JR" }, "geometry": { "type": "Point", "coordinates": [ -0.145143, 51.512047, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Astrazeneca Insurance, Investment and Finance", "Description": "Pharmaceuticals: 84 Description: Astrazeneca has been named a priority target by animal rights group Stop Huntingdon Animal Cruelty for their investment in Huntingdon Life Sciences, which conducts tests on 60.000 animals a year. Address: 15 Stanhope Gate, W1K 1LN" }, "geometry": { "type": "Point", "coordinates": [ -0.150973, 51.506924, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3rg", "Description": "Security: 98 Description: Provides risk management and security services to the elite. Address: Berkeley Square House, Berkeley Square, London, W1J 6BE" }, "geometry": { "type": "Point", "coordinates": [ -0.144894, 51.509705, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Aegis", "Description": "Security: 99 Description: Had a £225m contract from the US government to oversee all private military personnel in Iraq. when the US Military pulled out of Baghdad it was replaced by eight companies including Aegis. Address: 118 Piccadilly, W1J 7NW" }, "geometry": { "type": "Point", "coordinates": [ -0.147883, 51.504398, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Erinys International", "Description": "Security:  Description: In 2004 Erinys staff interrogated a 16-year old Iraqi youth by restraining him with car tyres around his body. Address: 66 Chiltern Street. W1U 4JT" }, "geometry": { "type": "Point", "coordinates": [ -0.155754, 51.520626, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "G4S", "Description": "Security: 100 Description: Largest security company in the world. Securing the world for capitalists. Runs prisons and migrant detention centres and profits from privatisation worldwide. Address: 105 Victoria Street, SW1E 6QT" }, "geometry": { "type": "Point", "coordinates": [ -0.137094, 51.497105, 0.0 ] } }
+
+]
+}
+

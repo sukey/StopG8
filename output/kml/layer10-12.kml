@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>layer10-12</name>
+		<description><![CDATA[#J11 Map Of The Capitalist West End
+
+Presenting the action map for the June 11 Carnival Against Capitalism. 100 locations in the West End connected to blatant murder, oppression and exploitation.
+
+source: https://network23.org/stopg8/j11-carnival-against-capitalism/j11-map-of-the-capitalist-west-end/]]></description>
+		<Folder>
+			<name>PR, Communications and Media</name>
+			<Placemark>
+				<styleUrl>#icon-1129-FF8277</styleUrl>
+				<name>Bell Pottinger</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>PR, Communications and Media</displayName>
+						<value>88</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>PR firm specialising in clients with 'reputational issues’, from the Shale gas industry to the genocidal Sri Lankan regime.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>14 Curzon St, City of Westminster, W1J 5HN, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+PR, Communications and Media: 88
+Description: PR firm specialising in clients with 'reputational issues’, from the Shale gas industry to the genocidal Sri Lankan regime.
+Address: 14 Curzon St, City of Westminster, W1J 5HN, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.14717249999999998,51.506910299999994,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1129-FF8277</styleUrl>
+				<name>Brown Lloyd James</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>PR, Communications and Media</displayName>
+						<value>89</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Did PR for Gaddafi and the Assads.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>25 Lower Belgrave St, City of Westminster, SW1W 0NR, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+PR, Communications and Media: 89
+Description: Did PR for Gaddafi and the Assads.
+Address: 25 Lower Belgrave St, City of Westminster, SW1W 0NR, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.1473566,51.4961239,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1129-FF8277</styleUrl>
+				<name>BTP Advisers International</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>PR, Communications and Media</displayName>
+						<value>90</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Specialises in PR advice for African regimes.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>33 St. James's Square, SW1Y 4JS</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+PR, Communications and Media: 90
+Description: Specialises in PR advice for African regimes.
+Address: 33 St. James's Square, SW1Y 4JS]]></description>
+				<Point>
+					<coordinates>-0.1343198,51.5074198,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1129-FF8277</styleUrl>
+				<name>Facebook</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>PR, Communications and Media</displayName>
+						<value>91</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Increasingly used by law enforcement agencies, willingly provides user information when requested by governments.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>42 Earlham St, London WC2H 9LA, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+PR, Communications and Media: 91
+Description: Increasingly used by law enforcement agencies, willingly provides user information when requested by governments.
+Address: 42 Earlham St, London WC2H 9LA, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.1257492,51.513742099999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1129-FF8277</styleUrl>
+				<name>Google</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>PR, Communications and Media</displayName>
+						<value>92</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Capitalist hipster scumbags attempting to monopolise all information on the internet, data-mine users’ personal data and use it for profit.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>1-13 St Giles High Street, Dyott St, London WC2H 8AG, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+PR, Communications and Media: 92
+Description: Capitalist hipster scumbags attempting to monopolise all information on the internet, data-mine users’ personal data and use it for profit.
+Address: 1-13 St Giles High Street, Dyott St, London WC2H 8AG, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.1272586957702515,51.516114663148095,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1129-FF8277</styleUrl>
+				<name>Grayling PR</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>PR, Communications and Media</displayName>
+						<value>93</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Boast clients from Coca Cola to Middle Eastern dictatorships.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>29 Lexington Street London W1F 9AH</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+PR, Communications and Media: 93
+Description: Boast clients from Coca Cola to Middle Eastern dictatorships.
+Address: 29 Lexington Street London W1F 9AH]]></description>
+				<Point>
+					<coordinates>-0.1360163,51.512725599999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1129-FF8277</styleUrl>
+				<name>Grayling PR (2nd Site)</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>PR, Communications and Media</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Boast clients from Coca Cola to Middle Eastern dictatorships.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Bressenden Place, Victoria, Portland House, London SW1E 5RS, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+PR, Communications and Media: 
+Description: Boast clients from Coca Cola to Middle Eastern dictatorships.
+Address: Bressenden Place, Victoria, Portland House, London SW1E 5RS, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.14152109999999998,51.4974308,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1129-FF8277</styleUrl>
+				<name>M&amp;C Saatchi</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>PR, Communications and Media</displayName>
+						<value>94</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Advertising agency famous for running Margaret Thatcher's campaigns.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>34-36 Golden Square, London, Greater London W1F 9EE, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+PR, Communications and Media: 94
+Description: Advertising agency famous for running Margaret Thatcher's campaigns.
+Address: 34-36 Golden Square, London, Greater London W1F 9EE, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.1372868,51.511860399999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1129-FF8277</styleUrl>
+				<name>Microsoft</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>PR, Communications and Media</displayName>
+						<value>95</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Renowned for mistreating its workforce, many of whom are kept on precarious 'temp' contracts. collaborates with the Chinese government and has banned xbox users who identify themselves as gay.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Cardinal Place, 80-100 Victoria Street, London SW1E 5JL, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+PR, Communications and Media: 95
+Description: Renowned for mistreating its workforce, many of whom are kept on precarious 'temp' contracts. collaborates with the Chinese government and has banned xbox users who identify themselves as gay.
+Address: Cardinal Place, 80-100 Victoria Street, London SW1E 5JL, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.1400691,51.497253,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1129-FF8277</styleUrl>
+				<name>Vogue Magazine</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>PR, Communications and Media</displayName>
+						<value>96</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>World leader in telling women how to look and act.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>Vogue House, 1-2 Hanover Square, London, Greater London W1S 1JX, UK
+</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+PR, Communications and Media: 96
+Description: World leader in telling women how to look and act.
+Address: Vogue House, 1-2 Hanover Square, London, Greater London W1S 1JX, UK
+]]></description>
+				<Point>
+					<coordinates>-0.1430871,51.5133884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1129-FF8277</styleUrl>
+				<name>Yahoo</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>PR, Communications and Media</displayName>
+						<value>97</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Complicit in Chinese internet censorship. Released the identity of users to the Chinese authorities. (Level 5)</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>125 Shaftesbury AvenueLondon, Greater London WC2H 8AD, United Kingdom</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+PR, Communications and Media: 97
+Description: Complicit in Chinese internet censorship. Released the identity of users to the Chinese authorities. (Level 5)
+Address: 125 Shaftesbury AvenueLondon, Greater London WC2H 8AD, United Kingdom]]></description>
+				<Point>
+					<coordinates>-0.12844187238738414,51.5139377685219,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Property</name>
+			<Placemark>
+				<styleUrl>#icon-1037-4186F0</styleUrl>
+				<name>25 North Row</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Property</displayName>
+						<value>85</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Owned by Barwa Real Estate Co, a company owned by the Qatari government.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>25 North Row, W1K 6DJ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Property: 85
+Description: Owned by Barwa Real Estate Co, a company owned by the Qatari government.
+Address: 25 North Row, W1K 6DJ]]></description>
+				<Point>
+					<coordinates>-0.154639,51.513193099999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1037-4186F0</styleUrl>
+				<name>Land Securities</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Property</displayName>
+						<value>86</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>The largest commercial property company in the UK.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>5 The Strand. WC2N 5AF</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Property: 86
+Description: The largest commercial property company in the UK.
+Address: 5 The Strand. WC2N 5AF]]></description>
+				<Point>
+					<coordinates>-0.1262149,51.5079767,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1037-4186F0</styleUrl>
+				<name>Qatari Diar</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Property</displayName>
+						<value>87</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Controlled by Qatar Investment Authority, whose key person is the Qatari Prime Minister.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>77 Grosvenor Street. W1K 3JR</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Property: 87
+Description: Controlled by Qatar Investment Authority, whose key person is the Qatari Prime Minister.
+Address: 77 Grosvenor Street. W1K 3JR]]></description>
+				<Point>
+					<coordinates>-0.1451428,51.5120453,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Pharmaceuticals</name>
+			<Placemark>
+				<styleUrl>#icon-1127-FF8277</styleUrl>
+				<name>Astrazeneca Insurance, Investment and Finance</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Pharmaceuticals</displayName>
+						<value>84</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Description</displayName>
+						<value>Astrazeneca has been named a priority target by animal rights group Stop Huntingdon Animal Cruelty for their investment in Huntingdon Life Sciences, which conducts tests on 60.000 animals a year.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Address</displayName>
+						<value>15 Stanhope Gate, W1K 1LN</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[
+
+Pharmaceuticals: 84
+Description: Astrazeneca has been named a priority target by animal rights group Stop Huntingdon Animal Cruelty for their investment in Huntingdon Life Sciences, which conducts tests on 60.000 animals a year.
+Address: 15 Stanhope Gate, W1K 1LN]]></description>
+				<Point>
+					<coordinates>-0.1509728,51.5069215,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1127-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1127-crisis-chemical.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1129-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1129-crisis-civil.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
