@@ -1,6 +1,6 @@
 StopG8
 ======
-Created in solidarity with the '''StopG8''' and '''Mapping The Corporations''' groups for the #j11 Carnival Against Capitalism protest
+Created in solidarity with the **StopG8** and **Mapping The Corporations** groups for the #j11 Carnival Against Capitalism protest
 
 Blog post about this map: http://www.opensukey.org/2013/05/solidarity-with-stopg8-mapping-pois-for-the-carnival-of-capitalism/
 
